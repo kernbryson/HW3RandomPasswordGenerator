@@ -37,7 +37,7 @@ function passwordGenerator(numberOfCharacters) {
   var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
   var numbers = "0123456789";
   var specialCharacters = "!@#$%^&*()";
-  // // for loop that grabs password entities//
+  // // while loop that grabs password entities//
   retVal = "";
   var i = 0;
   while (i < length) {

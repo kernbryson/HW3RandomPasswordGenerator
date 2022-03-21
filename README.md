@@ -2,8 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-For this project I had to create a password generator. My motivation for the project was to provide a solution to create a strong password for users. Through out creating this generator I sharped my javascript skills regarding loops and if statements.
+For this project I had to create a password generator. My motivation for the project was to provide a solution to create a strong password for users. Throughout the creation of this generator I sharped my javascript skills regarding loops and if statements. I also honed in my trouble shooting skills.
 
 ## Table of Contents (Optional)
 
